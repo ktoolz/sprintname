@@ -12,6 +12,14 @@ Why sharing it? There's no good reason for it, the real question was more: why n
 
 ## How to use?
 
+Simply retrieve the jar from bintray:
+
+For example:
+
+`wget https://bintray.com/ktoolz/maven/download_file\?file_path\=com%2Fgithub%2Fktoolz%2Fsprintname%2F1.0%2Fsprintname-1.0.jar -O sprintname.jar`
+
+Then execute it:
+
 `java -jar sprintname.jar`
 
 Yep, that's all.
